@@ -1,0 +1,7 @@
+C:\Users\ultra\Desktop\BAC\bac_git\FunctionalDataStructures\FunctionalDataStructures\bin\Release\netstandard2.0\FunctionalDataStructures.deps.json
+C:\Users\ultra\Desktop\BAC\bac_git\FunctionalDataStructures\FunctionalDataStructures\bin\Release\netstandard2.0\FunctionalDataStructures.dll
+C:\Users\ultra\Desktop\BAC\bac_git\FunctionalDataStructures\FunctionalDataStructures\bin\Release\netstandard2.0\FunctionalDataStructures.pdb
+C:\Users\ultra\Desktop\BAC\bac_git\FunctionalDataStructures\FunctionalDataStructures\obj\Release\netstandard2.0\FunctionalDataStructures.AssemblyInfoInputs.cache
+C:\Users\ultra\Desktop\BAC\bac_git\FunctionalDataStructures\FunctionalDataStructures\obj\Release\netstandard2.0\FunctionalDataStructures.AssemblyInfo.fs
+C:\Users\ultra\Desktop\BAC\bac_git\FunctionalDataStructures\FunctionalDataStructures\obj\Release\netstandard2.0\FunctionalDataStructures.dll
+C:\Users\ultra\Desktop\BAC\bac_git\FunctionalDataStructures\FunctionalDataStructures\obj\Release\netstandard2.0\FunctionalDataStructures.pdb
